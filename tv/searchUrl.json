@@ -10,14 +10,6 @@
     },
     {
     "id": 1,
-    "name": "76特殊.色色",
-    "url": "http://m.7777688.com/inc/api.php",
-    "cate": "",
-    "click": true,
-    "wePlus": {}
-    },
-    {
-    "id": 1,
     "name": "78特殊.乐播",
     "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "cate": "",
