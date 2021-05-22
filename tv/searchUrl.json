@@ -2,6 +2,22 @@
   "data": [
     {
     "id": 1,
+    "name": "佳丽 TV",
+    "url": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "cate": "无码专区,亚洲有码,欧美性爱,中文字幕,网红主播,精品推荐,国产情色,熟女人妻,强奸乱伦,巨乳美乳,制服诱惑,丝袜长腿,少女萝莉,女同性恋,卡通动画,韩国伦理",
+    "click": true,
+    "wePlus": {}
+    },
+    {
+    "id": 1,
+    "name": "环亚资源",
+    "url": "http://wmcj8.com/inc/sapi.php",
+    "cate": "乱伦无码,巨乳无码,强奸无码,人妻无码,制服无码",
+    "click": true,
+    "wePlus": {}
+    },
+    {
+    "id": 1,
     "name": "AWSLTV",
     "url": "http://www.awsltv.com/api.php/provide/vod/at/xml",
     "cate": "国产剧,13&&欧美剧,16&&日韩剧,15&&港台剧,14&&国产动漫,42&&日韩动漫,43&&内地综艺,28&&电影,1&&连续剧,2&&综艺,3&&动漫,4",
