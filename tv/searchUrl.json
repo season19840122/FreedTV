@@ -10,8 +10,8 @@
     },
     {
     "id": 1,
-    "name": "环亚资源",
-    "url": "http://wmcj8.com/inc/sapi.php",
+    "name": "96特殊.av88资源",
+    "url": "http://m.7777688.com/inc/api.php",
     "cate": "",
     "click": true,
     "wePlus": {}
@@ -28,6 +28,14 @@
     "id": 1,
     "name": "78特殊.乐播",
     "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "cate": "",
+    "click": true,
+    "wePlus": {}
+    },
+    {
+    "id": 1,
+    "name": "84特殊.鲨鱼资源",
+    "url": "https://shayuapi.com/api.php/provide/vod/at/xml/",
     "cate": "",
     "click": true,
     "wePlus": {}
